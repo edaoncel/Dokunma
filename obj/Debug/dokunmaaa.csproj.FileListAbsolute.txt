@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\dokunmaaa\bin\Debug\dokunmaaa.exe.config
+C:\Users\eda öncel\Desktop\dokunmaaa\bin\Debug\dokunmaaa.exe
+C:\Users\eda öncel\Desktop\dokunmaaa\bin\Debug\dokunmaaa.pdb
+C:\Users\eda öncel\Desktop\dokunmaaa\obj\Debug\dokunmaaa.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\dokunmaaa\obj\Debug\dokunmaaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\dokunmaaa\obj\Debug\dokunmaaa.Form1.resources
+C:\Users\eda öncel\Desktop\dokunmaaa\obj\Debug\dokunmaaa.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\dokunmaaa\obj\Debug\dokunmaaa.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\dokunmaaa\obj\Debug\dokunmaaa.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\dokunmaaa\obj\Debug\dokunmaaa.exe
+C:\Users\eda öncel\Desktop\dokunmaaa\obj\Debug\dokunmaaa.pdb
